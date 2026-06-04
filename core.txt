@@ -1,0 +1,1 @@
+Aggiunta funzionalità 1 a core.txt
