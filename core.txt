@@ -1,1 +1,2 @@
+Modifica che non causerà nessun problema. 👍
 Aggiunta funzionalità 1 a core.txt
